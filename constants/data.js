@@ -85,7 +85,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1xHyQrXhXecBnLm0teEHsGO-zdlyeh7oq/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/adeytrends",
     twitter: "https://twitter.com/adey_of",
